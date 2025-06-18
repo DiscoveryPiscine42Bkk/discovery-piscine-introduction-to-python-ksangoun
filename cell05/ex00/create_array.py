@@ -1,4 +1,3 @@
-import array
 # Creating an array of integers
-array_module = array.array('i', [2, 8, 9, 48, 8, 22, -12, 2])
+array_module = [2, 8, 9, 48, 8, 22, -12, 2]
 print(array_module)
